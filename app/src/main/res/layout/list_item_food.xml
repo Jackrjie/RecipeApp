@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.v7.widget.CardView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_margin="8dp"
+    app:cardBackgroundColor="@color/Teal"
+    app:cardCornerRadius="4dp">
+
+    <TextView
+        android:id="@+id/tv_list_food_name"
+        android:layout_height="wrap_content"
+        android:layout_width="match_parent"
+        android:fontFamily="@font/space_mono"
+        android:layout_margin="4dp"
+        android:textSize="16sp"
+        android:textColor="@color/AncientGreen"
+        android:text="@string/food_name"/>
+
+</android.support.v7.widget.CardView>

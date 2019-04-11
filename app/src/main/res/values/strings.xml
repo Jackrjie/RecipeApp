@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">RecipeApp</string>
+    <string name="food_name">Food Name</string>
+    <string name="food_ingredients">Carrot *1, Mushroom *3, Vinegar *1</string>
+    <string name="food_ingredients_title">Ingredients:</string>
+    <string name="food_step">1. Cut \n2. Boil \n3. Eat</string>
+    <string name="food_step_title">Steps:</string>
+    <string name="food_image">Food Image</string>
+    <string name="food_type_title">Type:</string>
+    <string name="food_type">Hotpot</string>
+    <string name="btn_camera">Camera</string>
+    <string name="btn_gallery">Gallery</string>
+    <string name="btn_save">save</string>
+    <string name="menu_delete">delete</string>
+    <string name="tv_choose_type">choose type</string>
+
+</resources>
